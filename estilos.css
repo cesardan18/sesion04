@@ -112,6 +112,7 @@ h1 {
     grid-auto-rows: 500px;
 }
 
+/*Se que la clase grupo y envase es lo mismo y lo mejor sería eleminar una y ponerle a las demás la misma clase, pero quizás haga cambios diferentes en cada una*/
 .grupo {
     display: flex;
     flex-direction: column;
